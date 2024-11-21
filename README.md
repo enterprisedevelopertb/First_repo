@@ -14,3 +14,8 @@
    git add README.md
    git commit -m "Add README file"
    git push origin main
+   ```
+## **License**
+- Include information about the license, if applicable.
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
